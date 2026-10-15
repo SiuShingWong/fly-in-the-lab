@@ -1,0 +1,1 @@
+(function(s){"use strict";var i=s.FCS=s.FCS||{};i.myStocks={name:"",rows:[]}})(typeof globalThis!=="undefined"?globalThis:this);
